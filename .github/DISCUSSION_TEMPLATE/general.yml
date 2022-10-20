@@ -1,9 +1,0 @@
-labels: ["General Introduction"]
-body:
-  - type: markdown
-    attributes:
-      value: |
-        This is text that will show up in the template!
-  - type: textarea
-    attributes:
-      label: Your thoughts for a nickel
