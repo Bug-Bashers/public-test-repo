@@ -1,4 +1,3 @@
-name: Hello
 labels: ["Help"]
 body:
   - type: markdown
