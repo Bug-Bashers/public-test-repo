@@ -19,8 +19,8 @@ body:
         - Sacramento
         - Albany
         - Boise
-   - type: dropdown
-    id: world cities
+- type: dropdown
+    id: world_cities
     attributes:
       label: Which cities have you visited?
       multiple: true
@@ -31,4 +31,4 @@ body:
         - Addis Abba 
         - Hong Kong
         - Paris 
-  
+
