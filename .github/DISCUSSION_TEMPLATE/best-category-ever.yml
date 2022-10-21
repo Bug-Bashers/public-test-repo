@@ -3,7 +3,7 @@ labels: ["bug", "good first question"]
 body:
  - type: markdown
     attributes:
-      value: If you post this it will live on the internet FOREVER !!!!! 
+     value: If you post this it will live on the internet FOREVER !!!!! 
   - type: textarea
     attributes:
       label: What's on your mind? 
