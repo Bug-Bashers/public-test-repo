@@ -8,26 +8,3 @@ body:
   - type: textarea
     attributes:
       label: What's on your mind? 
-  - type: dropdown
-    id: State_Capitals
-    attributes:
-      label: State Capitals
-      description: What is the capital of your state?
-      options:
-        - Austin
-        - Madison
-        - Sacramento
-        - Albany
-        - Boise
-- type: dropdown
-    id: world_cities
-    attributes:
-      label: Which cities have you visited?
-      multiple: true
-      options:
-        - Vancouver
-        - Sydney
-        - Buenos Aires
-        - Addis Abba 
-        - Hong Kong
-        - Paris 
