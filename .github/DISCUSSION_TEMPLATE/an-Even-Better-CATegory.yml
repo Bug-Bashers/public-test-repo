@@ -51,6 +51,8 @@ body:
       value: |
         <h3>If you post this it will live on the internet FOREVER !!!!!</h3>
   - type: textarea
+    attributes:
+      label: hello
   - type: textarea
     attributes:
       label: What's on your mind? 
