@@ -19,3 +19,16 @@ body:
         - Sacramento
         - Albany
         - Boise
+   - type: dropdown
+    id: world cities
+    attributes:
+      label: Which cities have you visited?
+      multiple: true
+      options:
+        - Vancouver
+        - Sydney
+        - Buenos Aires
+        - Addis Abba 
+        - Hong Kong
+        - Paris 
+  
