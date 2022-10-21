@@ -1,0 +1,31 @@
+---
+name: Bug Report
+description: Something isn't right 🐞
+labels: ["bug"]
+title: 🐞
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: |
+        Briefly describe the bug and the situations in which it occurs
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to Reproduce
+      description: If we can't reproduce the bug, we can't fix it
+      placeholder: 1. Visit a discussion as a repo maintainer
+  - type: textarea
+    id: results
+    attributes:
+      label: Expected and Actual Results
+      description: Include screenshots or videos if possible
+      placeholder: I expected ... but what happened was ...
+  - type: input
+    id: environment
+    attributes:
+      label: Browser and Version
+      description: Required if this is a visual bug
