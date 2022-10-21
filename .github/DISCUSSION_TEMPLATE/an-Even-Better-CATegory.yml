@@ -55,4 +55,7 @@ body:
       label: hello
   - type: textarea
     attributes:
+      label: goodbye
+  - type: textarea
+    attributes:
       label: What's on your mind? 
