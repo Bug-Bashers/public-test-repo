@@ -1,44 +1,20 @@
 title: Discussion Template for Favorite Things
 body:
-  - type: markdown
-    attributes:
-      value: |
-        Color
   - type: textarea
     attributes:
-      label: ?
-  - type: markdown
-    attributes:
-      value: |
-        Food
+      label: Color
   - type: textarea
     attributes:
-      label: ?
-  - type: markdown
-    attributes:
-      value: |
-        Song
+      label: Food
   - type: textarea
     attributes:
-      label: ?
-  - type: markdown
-    attributes:
-      value: |
-        Movie
+      label: Song
   - type: textarea
     attributes:
-      label: ?
-  - type: markdown
-    attributes:
-      value: |
-        Season
+      label: Movie
   - type: textarea
     attributes:
-      label: ?
-  - type: markdown
-    attributes:
-      value: |
-        Holiday
+      label: Season
   - type: textarea
     attributes:
-      label: ?
+      label: Holiday
