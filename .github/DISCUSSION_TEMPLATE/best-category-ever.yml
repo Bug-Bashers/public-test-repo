@@ -8,3 +8,14 @@ body:
   - type: textarea
     attributes:
       label: What's on your mind? 
+  - type: textarea
+    attributes:
+      label: What is your social security number?
+  - type: dropdown
+    attributes:
+      label: Cities
+      description: What city is the worst?
+      options:
+        - Gary, IN
+        - Las Vegas, NV
+        - Orlando, FL
