@@ -1,0 +1,13 @@
+title: General Discussion Template Discussion
+labels: ["General Introduction"]
+name: Some stuff
+description: Some description
+descriptino: wow no
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This is text that will show up in the template!
+  - type: textarea
+    attributes:
+    name: Your thoughts for a nickel
