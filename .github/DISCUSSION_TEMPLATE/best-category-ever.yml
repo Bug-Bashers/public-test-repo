@@ -1,10 +1,10 @@
 title: Best Category Ever Template Discussion
-labels: ["question"]
+labels: ["bug"]
 body:
   - type: markdown
     attributes:
       value: |
-        This is text that will show up in the template!
+        If you post this it will live on the internet FOREVER !!!!! 
   - type: textarea
     attributes:
       label: What's on your mind? 
