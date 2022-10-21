@@ -1,61 +1,49 @@
 title: <h1>The title</h1>
 labels: [
-Aardvark
-Aardwolf
-Abyssinian
-Achrioptera Manga
-Addax
-Adelie Penguin
-Aesculapian snake
-Affenpinscher
-Afghan Hound
-African Bullfrog
-African Bush Elephant
-African Civet
-African Clawed Frog
-African Fish Eagle
-African Forest Elephant
-African Golden Cat
-African Grey Parrot
-African Jacana
-African Palm Civet
-African Penguin
-African Tree Toad
-African Wild Dog
-Agama Lizard
-Aidi
-Ainu
-Airedale Terrier
-Airedoodle
-Akbash
-Akita
-Akita Shepherd
-Alabai (Central Asian Shepherd)
-Alaskan Husky
-Alaskan Klee Kai
-Alaskan Malamute
-Alaskan Pollock
-Alaskan Shepherd
-Albacore Tuna
-Albatross
-Albino (Amelanistic) Corn Snake
-Aldabra Giant Tortoise
-Alligator Gar
-Allosaurus
-Alpaca
-Alpine Dachsbracke
-Alpine Goat
-Alusky
-Amargasaurus
-Amazon Parrot
-Amazon River Dolphin (Pink Dolphin)
-Amazon Tree Boa
-Amazonian Royal Flycatcher
-Ambrosia Beetle
-American Alligator
-American Alsatian
-American Bulldog
-American Cocker Spaniel]
+"Aardvark"
+"Aardwolf"
+"Abyssinian"
+"Achrioptera Manga"
+"Addax"
+"Adelie Penguin"
+"Aesculapian snake"
+"Affenpinscher"
+"Afghan Hound"
+"African Bullfrog"
+"African Bush Elephant"
+"African Civet"
+"African Clawed Frog"
+"African Fish Eagle"
+"African Forest Elephant"
+"African Golden Cat"
+"African Grey Parrot"
+"African Jacana"
+"African Palm Civet"
+"African Penguin"
+"African Tree Toad"
+"African Wild Dog"
+"Agama Lizard"
+"Aidi"
+"Ainu"
+"Airedale Terrier"
+"Airedoodle"
+"Akbash"
+"Akita"
+"Akita Shepherd"
+"Alabai (Central Asian Shepherd)"
+"Alaskan Husky"
+"Alaskan Klee Kai"
+"Alaskan Malamute"
+"Alaskan Pollock"
+"Alaskan Shephe"
+"Albatross"
+"Albino (Amelanistic) Corn Snake"
+"Aldabra Giant Tortoise"
+"Alligator Gar"
+"Allosaurus"
+"Alpaca"
+"Alpine Dachsbracke"
+"Alpine Goat"]
 
 body:
   - type: markdown
