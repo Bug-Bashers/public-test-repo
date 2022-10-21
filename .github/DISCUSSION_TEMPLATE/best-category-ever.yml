@@ -8,3 +8,14 @@ body:
   - type: textarea
     attributes:
       label: What's on your mind? 
+  - type: dropdown
+    id: State Capitals
+    attributes:
+      label: State Capitals
+      description: What is the capital of your state?
+      options:
+        - Austin
+        - Madison
+        - Sacramento
+        - Albany
+        - Boise
