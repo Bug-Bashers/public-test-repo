@@ -7,7 +7,7 @@ body:
          If you post this it will live on the internet FOREVER!
   - type: textarea
     attributes:
-      label: What's on your mind? 
+      label: What is on your mind? 
   - type: textarea
     attributes:
       label: What is your social security number?
