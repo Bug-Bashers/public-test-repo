@@ -17,7 +17,7 @@ body:
         - 1
         - 2
         - 3
-   - type: input
+  - type: input
     id: contact
     attributes:
       label: Contact Details
