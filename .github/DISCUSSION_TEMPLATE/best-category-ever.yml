@@ -31,4 +31,12 @@ body:
         - Addis Abba 
         - Hong Kong
         - Paris 
+   - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this Discussion, you agree to follow our [Code of Conduct](https://example.com)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
 
