@@ -1,5 +1,5 @@
 title: Best Category Ever Template Discussion
-labels: ["bug"]
+labels: ["bug", "good first question"]
 body:
   - type: markdown
     attributes:
@@ -8,3 +8,52 @@ body:
   - type: textarea
     attributes:
       label: What's on your mind? 
+  - type: dropdown
+    id: State Capitals
+    attributes:
+      label: State Capitals
+      description: What is the capital of your state?
+      options:
+        - Austin
+        - Madison
+        - Sacramento
+        - Albany
+        - Boise
+        
+   - type: dropdown
+    id: world cities
+    attributes:
+      label: Which cities have you visited?
+      multiple: true
+      options:
+        - Vancouver
+        - Sydney
+        - Buenos Aires
+        - Addis Abba 
+        - Hong Kong
+        - Paris 
+   - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this Discussion, you agree to follow our [Code of Conduct](https://example.com)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
+   - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. email@example.com
+    validations:
+      required: false
+   - type: textarea
+    attributes:
+      label: Tell me a good story 
+  - type: textarea
+    attributes:
+      label: What is your social security number?
+  - type: textarea
+    attributes:
+      label: What is your mother's maiden name? 
