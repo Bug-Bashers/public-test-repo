@@ -2,7 +2,7 @@ title: Best Category Ever Template Discussion
 labels: ["bug", "good first question"]
 body:
  - type: markdown
-    attributes: 
+    attributes:
      value: |
      If you post this it will live on the internet FOREVER!
   - type: textarea
