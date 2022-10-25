@@ -19,8 +19,8 @@ body:
     attributes:
       label: Suggestions
       description: A description about suggestions to help you
-      validations:
-        required: true
+    validations:
+      required: true
   - type: dropdown
     attributes:
       label: Who is the coolest
@@ -28,8 +28,8 @@ body:
         - Greg
         - Gregory
         - Greg F
-      validations:
-        required: true
+    validations:
+      required: true
   - type: checkboxes
     attributes:
       label: Check that box!
