@@ -1,4 +1,4 @@
-title: Invalid title
+name: Invalid name attribute
 labels: ["General Introduction"]
 body:
   - type: markdown
