@@ -3,3 +3,7 @@ body:
     attributes:
       value: |
         This is text that will show up in the template
+  - type: textarea
+    attributes:
+      label: Your thoughts for a nickel
+      description: You won't actually get a nickel.
