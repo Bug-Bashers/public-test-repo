@@ -25,7 +25,7 @@ body:
       label: Expected and Actual Results
       description: Include screenshots or videos if possible
       placeholder: I expected ... but what happened was ...
-  type: input
+  - type: input
     id: environment
     attributes:
       label: Browser and Version
