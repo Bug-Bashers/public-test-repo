@@ -1,7 +1,8 @@
 ---
 name: Bug Report
 description: Something isn't right 🐞
-labels: ["bug"]
+labels: 
+-
 title: 🐞
 body:
   - type: textarea
