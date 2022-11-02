@@ -2,7 +2,7 @@
 name: Bug Report
 description: Something isn't right 🐞
 labels: 
--
+- eggs
 title: 🐞
 body:
   - type: textarea
