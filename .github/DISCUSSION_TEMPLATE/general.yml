@@ -1,4 +1,45 @@
 title: "[General] "
-labels: 
-- sdf
+labels: ["General Introduction"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        This is text that will show up in the template!
+  - type: textarea
+    attributes:
+      label: Your thoughts for a nickel
+      description: You won't actually get a nickel.
+  - type: markdown
+    attributes:
+      value: |
+        ## Markdown header
+        And some more markdown
+  - type: input
+    id: has-id
+    attributes:
+      label: Suggestions
+      description: A description about suggestions to help you
+    validations:
+      required: true
+  - type: dropdown
+    attributes:
+      label: Who is the coolest
+      options:
+        - Greg
+        - Gregory
+        - Greg F
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Check that box!
+      options:
+        - label: This one!
+          required: true
+        - label: I won't stop you if you check this one, too
+  - type: markdown
+    attributes:
+      value: |
+        ### The thrilling conclusion
+        _to our template_
+      
